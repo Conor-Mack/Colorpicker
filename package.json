@@ -1,0 +1,26 @@
+{
+  "name": "@budibase/colorpicker",
+  "version": "1.0.1",
+  "description": "A multi format Colorpicker component  built with Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Budibase/Colorpicker.git"
+  },
+  "keywords": [
+    "budibase",
+    "colorpicker",
+    "svelte",
+    "javascript",
+    "Conor-Mack"
+  ],
+  "author": "Conor-Mack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Budibase/Colorpicker/issues"
+  },
+  "homepage": "https://github.com/Budibase/Colorpicker#readme"
+}
